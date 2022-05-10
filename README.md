@@ -6,7 +6,7 @@
   <br>
 - 👀 Estou aprendendo a Programar do Zero
   <br>
-- 🌱 Atualmente estou estudando HTML, CSS e Logica de Programção e em breve iniciarei os estudos de JavaScript
+- 🌱 Atualmente estou estudando HTML, CSS e Logica de Programação e em breve iniciarei os estudos de JavaScript
   <br>
 - 💞️ Estou em busca de conhecimento para aprender cada vez mais e compartilhar os conhecimentos que irei adiquirir nesse jornada
  <br>
