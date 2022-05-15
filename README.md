@@ -11,7 +11,7 @@
 - 💞️ Estou em busca de conhecimento para aprender cada vez mais e compartilhar os conhecimentos que irei adiquirir nesse jornada
  <br>
   
-  ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨
 </div>
   
 <div align="center">
