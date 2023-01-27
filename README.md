@@ -3,9 +3,9 @@
 </div>
 - 👋 Olá jovem, @imJessicaV
   <br>
-- 👀 Atualmente estou participando do <b>Bootcamp Santander Fullstack Developer</b>
+- 👀 Atualmente trabalho da <b>BR-iT Gestão de Software</b>, parceira  da <b>M-Files</b>.
   <br>
-- 🌱 Iniciei meus estudos com HTML, CSS e JavaScript
+- 🌱 Iniciei meus estudos com HTML, CSS e JavaScript, e estou mudando meus rumos para Backend.
   <br>
 - 💞️ Estou em busca de conhecimento para aprender cada vez mais e compartilhar os conhecimentos que irei adiquirir nesse jornada
  <br>
