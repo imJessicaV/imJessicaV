@@ -30,7 +30,7 @@
  
 ### 🏆GitHub Trophies
 <div align="center">
-<img height="90em" src="https://github-profile-trophy.vercel.app/?username=imJessicaV&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+<img height="100em" src="https://github-profile-trophy.vercel.app/?username=imJessicaV&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </div>
  
   ![Snake animation](https://github.com/imjessicav/imjessicav/blob/output/github-contribution-grid-snake.svg)
