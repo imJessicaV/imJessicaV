@@ -5,7 +5,7 @@
   <br>
 - 👀 Atualmente trabalho da <b>BR-iT Gestão de Software</b>, parceira  da <b>M-Files</b>.
   <br>
-- 🌱 Iniciei meus estudos com HTML, CSS e JavaScript, e pretendo ser Dev Fullstack
+- 🌱 Recem formada em Informática para Internet pela ETEC Lauro Gomes. Seguindo ruma à especiliazação em BackEnd 
   <br>
 - 💞️ Estou em busca de conhecimento para aprender cada vez mais e compartilhar os conhecimentos que irei adiquirir nesse jornada
  <br>
