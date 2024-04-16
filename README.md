@@ -3,7 +3,7 @@
 </div>
 - 👋 Olá jovem, @imJessicaV
   <br>
-- 👀 Atualmente trabalho da <b>BR-iT | Gestão Inteligente de Documentos</b>, parceira  da <b>M-Files</b>.
+- 👀 Atualmente trabalho da <b><a href = "https://www.br-itsoftware.com.br/">BR-iT | Gestão Inteligente de Documentos</a></b>, parceira  da <b><a href = "https://www.m-files.com/">M-Files</a></b>.
   <br>
 - 🌱 Recem formada em Informática para Internet pela ETEC Lauro Gomes. Seguindo ruma à especiliazação em BackEnd 
   <br>
