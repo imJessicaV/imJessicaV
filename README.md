@@ -13,8 +13,10 @@
  
  
   
-### 🌐Redes Sociais
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/imjesca__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jessicassvitoriano/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://twitch.tv/imjesca) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ajesca_) 
+### 🌐 Onde me encontrar
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imjesca__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicassvitoriano/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/https://twitch.tv/imjesca) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199020015166/) [![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://store.epicgames.com/pt-BR/u/9cf5dc96d874490884284f820fb5510d) [![XBOX](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=MCuXZNQ8ftpYf-4Z8cUJonZ4lvxRovCTuE-7XS71Dq8rS_TAXYSlr1MjmejBpT2mPyg07zUqU6_ZaAnBQPlQ9xciRfE1&wa=wsignin1.0)
+
 
 ### 👩‍💻Wakatime
 [![wakatime](https://wakatime.com/badge/user/357c6581-11fa-4942-afa2-1054ef42f0fc.svg)](https://wakatime.com/@357c6581-11fa-4942-afa2-1054ef42f0fc)
