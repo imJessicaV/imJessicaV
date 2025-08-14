@@ -9,7 +9,7 @@
   <br>
 - 💞️ Estou em busca de conhecimento para aprender cada vez mais e compartilhar os conhecimentos que irei adiquirir nesse jornada
  <br>
-- 🎧 Minha playlist para codar <a href="[https://open.spotify.com/artist/0oaP0FzHSRg7Dbx2ehVxSF?si=ZXP8rM2xTaCSvjpxrIAGJg](https://open.spotify.com/playlist/0Hy6L30UdmOnjrq0cmb4eD)"><img height="20px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"><a/>
+- 🎧 Minha playlist para codar <a href="https://open.spotify.com/playlist/0Hy6L30UdmOnjrq0cmb4eD"><img height="20px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"><a/>
  
  
   
