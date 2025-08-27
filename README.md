@@ -5,7 +5,7 @@
   <br>
 - 👀 Atualmente trabalho da <b><a href = "https://www.br-itsoftware.com.br/">BR-iT | Gestão Inteligente de Documentos</a></b>, parceira  da <b><a href = "https://www.m-files.com/">M-Files</a></b>.
   <br>
-- 🌱 Recem formada em Informática para Internet pela ETEC Lauro Gomes. Seguindo ruma à especialização em BackEnd 
+- 🌱 Formada em Informática para Internet pela ETEC Lauro Gomes e cursando Análise e Desenvolvimento de sistemas na Impacta, estou am busca da especialização em Back-End.
   <br>
 - 💞️ Estou em busca de conhecimento para aprender cada vez mais e compartilhar os conhecimentos que irei adiquirir nesse jornada
  <br>
