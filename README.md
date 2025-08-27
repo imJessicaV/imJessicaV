@@ -42,7 +42,7 @@
 
 
  
-  ![snake gif](https://github.com/imjessicav/imjessicav/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/imjessicav/imjessicav/blob/output/snake.svg)
   
   [![](https://visitcount.itsvg.in/api?id=imJessicaV&icon=2&color=11)](https://visitcount.itsvg.in)
 
