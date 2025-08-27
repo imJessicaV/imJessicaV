@@ -40,10 +40,6 @@
 <img height="250em" src="https://github-profile-trophy.vercel.app/?username=imJessicaV&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
-### 🏆GitHub Trophies
-<div align="center">
-<img height="250em" src="https://github-profile-trophy.vercel.app/?username=imJessicaV&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imjessicav/imjessicav/output/snake-dark.svg" />
