@@ -50,11 +50,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imjessicav/imjessicav/output/snake.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/imjessicav/imjessicav/output/snake.svg" />
 </picture>
-
-[![](https://visitcount.itsvg.in/api?id=imJessicaV&icon=2&color=11)](https://visitcount.itsvg.in)
-
- 
-  ![snake gif](https://github.com/imjessicav/imjessicav/blob/output/snake.svg)
   
   [![](https://visitcount.itsvg.in/api?id=imJessicaV&icon=2&color=11)](https://visitcount.itsvg.in)
 
