@@ -40,6 +40,18 @@
 <img height="250em" src="https://github-profile-trophy.vercel.app/?username=imJessicaV&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
+### 🏆GitHub Trophies
+<div align="center">
+<img height="250em" src="https://github-profile-trophy.vercel.app/?username=imJessicaV&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imjessicav/imjessicav/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imjessicav/imjessicav/output/snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/imjessicav/imjessicav/output/snake.svg" />
+</picture>
+
+[![](https://visitcount.itsvg.in/api?id=imJessicaV&icon=2&color=11)](https://visitcount.itsvg.in)
 
  
   ![snake gif](https://github.com/imjessicav/imjessicav/blob/output/snake.svg)
