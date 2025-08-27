@@ -10,7 +10,15 @@
 - 💞️ Estou em busca de conhecimento para aprender cada vez mais e compartilhar os conhecimentos que irei adiquirir nesse jornada
  <br>
 - 🎧 Minha playlist para codar <a href="https://open.spotify.com/playlist/0Hy6L30UdmOnjrq0cmb4eD"><img height="20px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"><a/>
- 
+
+ ### 🚀 Atualmente Explorando:
+- ☁️ Aprendendo mais sobre DDD e Clean Architecture.
+- 🐍 Conhecendo Python.
+- 🧪 Desenvolvendo habilidades em C#.
+- 💡 Entendendo melhor SQL.
+
+### 💡 Pensamento do Dia:
+[![Frase Aleatória](https://usuariosem.com.br/github-readme-quotes/?theme=tokyonight)](https://github.com/imJessicaV)
  
   
 ### 🌐 Onde me encontrar
