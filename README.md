@@ -11,29 +11,34 @@
  <br>
 - 🎧 Minha playlist para codar <a href="https://open.spotify.com/playlist/0Hy6L30UdmOnjrq0cmb4eD"><img height="20px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"><a/>
 
+<br>
+<br>
+
  ### 🚀 Atualmente Explorando:
 - ☁️ Aprendendo mais sobre DDD e Clean Architecture.
 - 🐍 Conhecendo Python.
 - 🧪 Desenvolvendo habilidades em C#.
 - 💡 Entendendo melhor SQL.
-
-### 💡 Pensamento do Dia:
-[![Frase Aleatória](https://usuariosem.com.br/github-readme-quotes/?theme=tokyonight)](https://github.com/imJessicaV)
  
+<br>
   
 ### 🌐 Onde me encontrar
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_jesca_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicassvitoriano/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/imjesca) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199020015166/) [![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://store.epicgames.com/pt-BR/u/9cf5dc96d874490884284f820fb5510d) [![XBOX](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=MCuXZNQ8ftpYf-4Z8cUJonZ4lvxRovCTuE-7XS71Dq8rS_TAXYSlr1MjmejBpT2mPyg07zUqU6_ZaAnBQPlQ9xciRfE1&wa=wsignin1.0)
 
+<br>
 
 ### 👩‍💻Wakatime
 [![wakatime](https://wakatime.com/badge/user/357c6581-11fa-4942-afa2-1054ef42f0fc.svg)](https://wakatime.com/@357c6581-11fa-4942-afa2-1054ef42f0fc)
+
+<br>
 
  ### 💻 Techs que já tive contato
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
+<br>
 
 ### 📊GitHub Stats :
 <div align="center">
@@ -43,12 +48,11 @@
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=imJessicaV&theme=tokyonight&hide_border=false" />
 </div>
 
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imjessicav/imjessicav/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imjessicav/imjessicav/output/snake.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/imjessicav/imjessicav/output/snake.svg" />
 </picture>
-  
-  [![](https://visitcount.itsvg.in/api?id=imJessicaV&icon=2&color=11)](https://visitcount.itsvg.in)
 
